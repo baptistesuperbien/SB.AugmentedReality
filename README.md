@@ -1,2 +1,12 @@
 # SB.AugmentedReality
 Mini projet de réalité augmentée
+
+## Installation
+
+- Installer Unity 2019.2
+- Installer la Package Vuforia : 
+  (dans Unity)
+  - Ouvrir Onglet Window > Package Manager
+  - Rechercher 'Vuforia' dans la barre de recherche
+  - Installer Vuforia
+- Se créer un compte Vuforia sur le site et enregistrer la Clé sur unity dans les paramètres de Vuforia
