@@ -15,3 +15,5 @@ Mini projet de réalité augmentée
 
 Le projet n'est pas publié sur Git en raison de la taille du dossier Unity. Tout est mis sur le serveur à l'adresse suivante : 
 > Insérer l'adresse
+
+Mes recherches sont détaillées sur le Wiki de ce repo.
