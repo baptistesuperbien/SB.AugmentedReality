@@ -3,7 +3,7 @@ Mini projet de réalité augmentée
 
 ## Installation
 
-- Installer Unity 2019.2
+- Installer Unity 2019.1
 - Installer la Package Vuforia : 
   (dans Unity)
   - Ouvrir Onglet Window > Package Manager
